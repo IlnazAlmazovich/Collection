@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Collection\Collection\bin\Debug\Collection.exe.config
+C:\Users\Пользователь\Desktop\Collection\Collection\bin\Debug\Collection.exe
+C:\Users\Пользователь\Desktop\Collection\Collection\bin\Debug\Collection.pdb
+C:\Users\Пользователь\Desktop\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Collection\Collection\obj\Debug\Collection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Collection\Collection\obj\Debug\Collection.exe
+C:\Users\Пользователь\Desktop\Collection\Collection\obj\Debug\Collection.pdb

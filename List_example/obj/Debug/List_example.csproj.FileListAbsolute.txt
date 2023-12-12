@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Collection\List_example\bin\Debug\List_example.exe.config
+C:\Users\Пользователь\Desktop\Collection\List_example\bin\Debug\List_example.exe
+C:\Users\Пользователь\Desktop\Collection\List_example\bin\Debug\List_example.pdb
+C:\Users\Пользователь\Desktop\Collection\List_example\obj\Debug\List_example.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Collection\List_example\obj\Debug\List_example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Collection\List_example\obj\Debug\List_example.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Collection\List_example\obj\Debug\List_example.exe
+C:\Users\Пользователь\Desktop\Collection\List_example\obj\Debug\List_example.pdb

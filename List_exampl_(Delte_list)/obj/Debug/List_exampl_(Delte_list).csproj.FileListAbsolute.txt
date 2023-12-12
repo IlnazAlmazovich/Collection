@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Collection\List_exampl_(Delte_list)\bin\Debug\List_exampl_(Delte_list).exe.config
+C:\Users\Пользователь\Desktop\Collection\List_exampl_(Delte_list)\bin\Debug\List_exampl_(Delte_list).exe
+C:\Users\Пользователь\Desktop\Collection\List_exampl_(Delte_list)\bin\Debug\List_exampl_(Delte_list).pdb
+C:\Users\Пользователь\Desktop\Collection\List_exampl_(Delte_list)\obj\Debug\List_exampl_(Delte_list).csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Collection\List_exampl_(Delte_list)\obj\Debug\List_exampl_(Delte_list).csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Collection\List_exampl_(Delte_list)\obj\Debug\List_exampl_(Delte_list).csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Collection\List_exampl_(Delte_list)\obj\Debug\List_exampl_(Delte_list).exe
+C:\Users\Пользователь\Desktop\Collection\List_exampl_(Delte_list)\obj\Debug\List_exampl_(Delte_list).pdb
